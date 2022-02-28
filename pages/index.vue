@@ -89,8 +89,8 @@
             <div class="flex flex-1 flex-col">
                 <img
                     class="max-w-lg self-end drop-shadow-2xl"
-                    src="../assets/hero.png"
-                    alt
+                    src="../assets/images/hero.png"
+                    alt="hero"
                 />
             </div>
         </section>
