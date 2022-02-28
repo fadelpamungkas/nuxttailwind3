@@ -127,11 +127,11 @@
                 viverra lorem vulputate luctus.
             </p>
             <div class="mt-20 flex w-full justify-between gap-8">
-                <postcard />
+                <!-- <postcard />
 
                 <postcard class="-translate-y-12 transform" />
 
-                <postcard />
+                <postcard /> -->
             </div>
         </section>
         <section
