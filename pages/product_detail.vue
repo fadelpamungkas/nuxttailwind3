@@ -90,7 +90,7 @@
                             >
                                 Dimensions
                             </p>
-                            <img
+                            <!-- <img
                                 id="rotateSVG"
                                 v-if="rotateimg == false"
                                 class="transform cursor-pointer duration-100 focus:outline-none focus:ring-2 focus:ring-gray-800 focus:ring-offset-2 dark:hidden"
@@ -103,7 +103,7 @@
                                 class="rotate-180 transform cursor-pointer duration-100 focus:outline-none focus:ring-2 focus:ring-gray-800 focus:ring-offset-2 dark:hidden"
                                 src="../svgs/svg4.svg"
                                 alt="dropdown"
-                            />
+                            /> -->
                         </div>
                         <hr class="mt-4 w-full bg-gray-200" />
                     </div>
