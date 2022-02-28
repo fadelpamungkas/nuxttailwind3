@@ -1,3 +1,11 @@
+# Tech Stacks
+
+- Nuxt 3 (built on top of VueJS 3)
+- TailwindCSS 3 (with postcss)
+- Golang fiber v2 (built on top of FastHTTP, fastest HTTP engine)
+- MongoDB
+- Vercel Deployment
+
 # Nuxt 3 Minimal Starter
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
